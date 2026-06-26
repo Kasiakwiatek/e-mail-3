@@ -9,8 +9,6 @@ This project demonstrates practical skills in building promotional newsletters u
 - Inline CSS
 - Responsive structure for mobile email clients
 - Canva graphics 
-- Placeholder links (`#`)
-- Placeholder text (Lorem ipsum)
 
 
 ## 📬 Live Preview
